@@ -29,7 +29,7 @@ This is a third-year college project showcasing distributed systems concepts and
 - **Error Handling**: User-friendly error messages with actionable feedback
 - **Auto-scroll**: Chat automatically scrolls to show latest messages
 
-## 🏗️ Architecture
+## Architecture
 
 The application follows a distributed client-server architecture:
 
@@ -38,20 +38,20 @@ The application follows a distributed client-server architecture:
 - **Clients**: GUI applications that connect to the server via RMI
 - **Communication**: Bidirectional RMI communication (client ↔ server ↔ clients)
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Java 19**: Modern Java features and performance
 - **Java RMI**: Remote Method Invocation for distributed communication
 - **Java Swing**: Cross-platform GUI framework
 - **Maven**: Build automation and dependency management
 
-## 📋 Prerequisites
+##  Prerequisites
 
 - **Java 19** or higher
 - **Maven 3.6** or higher
 - **Network access** (for RMI communication)
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Building the Project
 
